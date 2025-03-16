@@ -1,7 +1,6 @@
 {
   "name": "portfolio-new",
   "private": true,
-  "homepage": "https://ankitrana04.github.io/portfolio-react",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
